@@ -1,2 +1,1 @@
-# ws_trilicis
-Static Page
+# Trilicis
